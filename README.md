@@ -53,13 +53,13 @@ Images were preprocessed and augmented to ensure balanced training and robust re
 ---
 
 ## 📂 Project Structure  
-├── data/ # Dataset (images)
-├── notebooks/ # Jupyter notebooks for model training & evaluation
-├── models/ # Saved trained models
-├── results/ # Accuracy plots, confusion matrices
-├── src/ # Core training & preprocessing scripts
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+ -  data/ # Dataset (images)
+ - notebooks/ # Colab notebooks for model training & evaluation
+ -  models/ # Saved trained models
+ - results/ # Accuracy plots, confusion matrices
+ - src/ # Core training & preprocessing scripts
+ - requirements.txt # Dependencies
+ - README.md # Project documentation
 
 ## 🔧 Installation & Usage  
 
