@@ -65,8 +65,7 @@ Images were preprocessed and augmented to ensure balanced training and robust re
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/SkinCancerDetection.git
-   cd SkinCancerDetection
+   git clone https://github.com/gagandeepsingh76/DermaScanML-Dermatology-Scan-ML-.git
 
 📌 Key Features
 
