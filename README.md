@@ -78,7 +78,9 @@ Images were preprocessed and augmented to ensure balanced training and robust re
 
 📈 Sample Results
 
-<img width="872" height="749" alt="image" src="https://github.com/user-attachments/assets/0ebf8dd2-040c-41da-af57-99a960cbab22" />
+<p align="center">
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0ebf8dd2-040c-41da-af57-99a960cbab22" />
+</p>
 
 👨‍💻 Contributors
 
